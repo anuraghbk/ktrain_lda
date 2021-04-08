@@ -1,0 +1,4 @@
+ktrain ==0.26.2
+pandas == 1.0.5
+flask == 1.1.2
+gunicorn ==19.9.0
